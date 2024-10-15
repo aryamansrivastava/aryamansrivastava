@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-main-qdnaukgrl-aryaman-srivastavas-projects.vercel.app/](https://portfolio-main-qdnaukgrl-aryaman-srivastavas-projects.vercel.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Data Structures and Algorithms**
 
 - 📫 How to reach me **srivastavaaryaman05@gmail.com**
 
