@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryaman Srivastava</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamansrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aryamansrivastava" /> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/aryamansri18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryamansri18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryaman-srivastava-573224221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryaman-srivastava-573224221" height="30" width="40" /></a>
-<a href="https://instagram.com/aryaman_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaman_sri" height="30" width="40" /></a>
+<a href="https://instagram.com/aryaman__srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaman__srivastava" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryaman_sri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryaman_sri" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aryaman_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aryaman_sri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryamansrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryamansrivastava" height="30" width="40" /></a>
