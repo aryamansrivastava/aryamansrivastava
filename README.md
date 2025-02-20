@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamansrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="aryamansrivastava" /> </p>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs**
+- 🌱 I’m currently learning **NodeJs, TypeScript**
 
 - 👨‍💻 All of my projects are available at ([https://portfolio-main-qdnaukgrl-aryaman-srivastavas-projects.vercel.app/](https://portfolio-main-kappa-beryl.vercel.app/))
 
