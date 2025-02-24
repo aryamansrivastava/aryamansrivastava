@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, TypeScript**
 
-- 👨‍💻 All of my projects are available at ([https://portfolio-main-qdnaukgrl-aryaman-srivastavas-projects.vercel.app/](https://portfolio-main-kappa-beryl.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://portfolio-main-qdnaukgrl-aryaman-srivastavas-projects.vercel.app/](https://portfolio-main-kappa-beryl.vercel.app/)
 
 - 💬 Ask me about **Web Development and Data Structures and Algorithms**
 
